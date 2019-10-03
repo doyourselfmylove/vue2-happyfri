@@ -20,6 +20,7 @@ export default {
 
 <style lang="less" scoped>
     .home_container{
-
+            text-emphasis: none;
+            text-align: left
     }
 </style>
